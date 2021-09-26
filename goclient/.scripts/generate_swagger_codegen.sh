@@ -8,7 +8,7 @@ SCRIPT_RELATIVE_DIR=$(dirname "${BASH_SOURCE[0]}")
 SCRIPT_DIR="$( cd "$( dirname "$0" )" && pwd )"
 SWAGGER_API="https://gateway.qg2.apps.qualys.com/apidocs/yaml/csapi-swagger-v1.3.yaml"
 GIT_USER_ID="kongyew"
-GIT_REPO_ID="qualys_containersecurityapi"
+GIT_REPO_ID="qualys_cli"
 RELEASE_NOTE="Integration"
 
 

@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/kongyew/qualys_containersecurityapi/cmd"
+import "github.com/kongyew/qualys_cli/cmd"
 
 func main() {
 	cmd.Execute()
